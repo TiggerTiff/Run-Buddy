@@ -24,3 +24,4 @@ A website that offers fitness training services
  
  Made with ❤️ by Tiffany Bell
  
+### ©️2022 Run Buddy, Inc 
